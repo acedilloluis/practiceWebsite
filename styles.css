@@ -1,0 +1,96 @@
+ #body {
+        font-family: Roboto, Arial, Sans-Serif;
+        font-size: large;
+		font-weight: bold;
+      }
+      
+	#transparentP {
+		color: #000000;
+		margin: 5%;
+		  }
+		  
+	#img {
+		 display: block;
+		 margin: 5% auto 5% auto;
+		 border: thin solid MediumSeaGreen;
+		  }
+		  
+	 #imgLeftP {
+      	float: left;
+      	width: 48%;
+      	margin-top: 1%;
+      	border-style: outset;
+      	background: rgb(255, 255, 255);
+      	background: rgba(255, 255, 255, 0.4);
+		border-radius: 25px;
+      	}
+      
+     #imgRightP {
+      	float: right;
+      	width: 48%;
+      	margin-top: 1%;
+      	border-style: outset;
+      	background: rgb(255, 255, 255);
+      	background: rgba(255, 255, 255, 0.4);
+		border-radius: 25px;
+	    }
+	    
+	 #buttonStyle {
+		border: thin solid black;
+		padding: 5px;
+		background-color: DodgerBlue;
+      }
+		  
+      .headerStyle {
+	     text-align: center;
+	     width: 100%;
+	     margin-bottom: 1%;
+	     margin-top: 1%;
+	   	 border-style: outset;
+	   	 background: rgb(255, 255, 255);
+		 background: rgba(255, 255, 255, 0.4);
+		 border-radius: 25px;
+      }
+	  
+      a:link {
+      	text-decoration: none;
+      	color: black;
+      }
+      
+      a:visited {
+      	text-decoration: none;
+      	color: black;
+      }
+      
+      a:hover {
+      	text-decoration: underline;
+      	color: blue;
+      }
+      
+      .leftColumnP {
+      	float: left;
+      	width: 50%;
+      }
+      
+      .rightColumnP {
+      	float: right;
+      	width: 50%;
+      }
+      
+      .leftP {
+      	float: left;
+		width: 99%;
+		border-style: outset;
+		background: rgb(255, 255, 255);
+		background: rgba(255, 255, 255, 0.6);
+		border-radius: 25px;
+      }
+	  
+     .rightP {
+	     float: right;
+		 width: 99%;
+		 border-style: outset;
+		 background: rgb(255, 255, 255);
+		 background: rgba(255, 255, 255, 0.6);
+		 border-radius: 25px;
+      }
