@@ -34,13 +34,7 @@
       	background: rgba(255, 255, 255, 0.4);
 		border-radius: 25px;
 	    }
-	    
-	 #buttonStyle {
-		border: thin solid black;
-		padding: 5px;
-		background-color: DodgerBlue;
-      }
-		  
+	    		  
       .headerStyle {
 	     text-align: center;
 	     width: 100%;
